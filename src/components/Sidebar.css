@@ -1,0 +1,29 @@
+.sidebar {
+    width: 250px;
+    background-color: #2c2c2c;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: #fff;
+  }
+  
+  .sidebar h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .sidebar-item {
+    margin-bottom: 20px;
+  }
+  
+  .add-task {
+    background-color: #6200ee;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+  }
+  

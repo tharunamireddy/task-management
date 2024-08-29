@@ -1,0 +1,19 @@
+.task-list {
+    width: 30%;
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .task-list h3 {
+    color: #fff;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .tasks {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
